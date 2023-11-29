@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "ramp_generator-altium-import")(type "KiCad")(uri "${KIPRJMOD}/ramp_generator-altium-import.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "V2_rampGen-altium-import")(type "KiCad")(uri "${KIPRJMOD}/V2_rampGen-altium-import.kicad_sym")(options "")(descr ""))
 )

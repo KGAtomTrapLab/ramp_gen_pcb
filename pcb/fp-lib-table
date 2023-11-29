@@ -1,3 +1,6 @@
 (fp_lib_table
-  (lib (name "oldLibrary")(type "KiCad")(uri "${KIPRJMOD}/oldLibrary.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "RampGenModels")(type "KiCad")(uri "${KIPRJMOD}/RampGenModels.pretty")(options "")(descr ""))
+  (lib (name "arduino-library")(type "KiCad")(uri "C:/Users/Jon/Projects/qc_lab/arduino-kicad-library/footprints/arduino-library.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/Jon/Projects/qc_lab/arduino-kicad-library/symbols/Library.pretty")(options "")(descr ""))
 )
