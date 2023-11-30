@@ -3,4 +3,5 @@
   (lib (name "RampGenModels")(type "KiCad")(uri "${KIPRJMOD}/RampGenModels.pretty")(options "")(descr ""))
   (lib (name "arduino-library")(type "KiCad")(uri "C:/Users/Jon/Projects/qc_lab/arduino-kicad-library/footprints/arduino-library.pretty")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "C:/Users/Jon/Projects/qc_lab/arduino-kicad-library/symbols/Library.pretty")(options "")(descr ""))
+  (lib (name "MCP4131-103E_P")(type "KiCad")(uri "${KIPRJMOD}/MCP4131-103E_P.pretty")(options "")(descr ""))
 )
