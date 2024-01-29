@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C3,C4,C6,C5";"CAPC1206(3216)100_N";4;"CAP 100pF 100V 1206(3216)";;;
+2;"J8,J9,J5";"FP-24_243_1-MFG";3;"24.243.1";;;
+3;"C1,C8,C2,C7";"FP-C3216-160-0_2-IPC_C";4;"C3216JB1A106M160AA";;;
+4;"J7,J6,J4";"FP-1-1337445-0-MFG";3;"1-1337445-0";;;
+5;"U1";"KVT0007A";1;"OPA452TA-1";;;
+6;"J2,J1";"FP-5015-MFG";2;"5015";;;
+7;"A1";"Arduino_Due_Shield";1;"Arduino_Due_Shield";;;
+8;"U2";"PDIP300-P8";1;"MCP4921-E/P";;;
+9;"U3";"MCP4131";1;"MCP4131-103E_P";;;
+10;"R2,R1";"FP-KTR18-IPC_A";2;"KTR18EZPJ102";;;
