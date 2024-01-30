@@ -1,9 +1,0 @@
-### Footprint positions - created on Mon 29 Jan 2024 02:13:00 PM PST ###
-### Printed by KiCad version 7.0.10
-## Unit = mm, Angle = deg.
-## Side : bottom
-# Ref     Val           Package                PosX       PosY       Rot  Side
-J1        5015          FP-5015-MFG        132.0800   -71.1200  180.0000  bottom
-R1        KTR18EZPJ102  FP-KTR18-IPC_A     133.5812   -60.9600    0.0000  bottom
-R2        KTR18EZPJ102  FP-KTR18-IPC_A     125.4988   -60.9600    0.0000  bottom
-## End
