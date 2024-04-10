@@ -7792,7 +7792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 172.72 81.28 0)
 			(effects
 				(font
@@ -8526,7 +8526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm"
 			(at 195.58 86.36 0)
 			(effects
 				(font
@@ -9471,7 +9471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "RampGenModels:FP-C3216-160-0_2-IPC_C"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 144.78 149.86 0)
 			(effects
 				(font
@@ -9731,7 +9731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "RampGenModels:CAPC1206(3216)100_N"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm"
 			(at 172.72 154.94 0)
 			(effects
 				(font
@@ -11060,7 +11060,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RampGenModels:FP-KTR18-IPC_A"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
 			(at 132.08 154.94 0)
 			(effects
 				(font
@@ -11087,7 +11087,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUNT" "Surface Mount"
+		(property "MOUNT" "Through Hole"
 			(at 130.556 136.652 0)
 			(effects
 				(font
@@ -11426,7 +11426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm"
 			(at 185.42 86.36 0)
 			(effects
 				(font
@@ -12060,7 +12060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 162.56 81.28 0)
 			(effects
 				(font
@@ -12385,7 +12385,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RampGenModels:FP-KTR18-IPC_A"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
 			(at 152.4 134.62 0)
 			(effects
 				(font
@@ -13535,7 +13535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "RampGenModels:FP-C3216-160-0_2-IPC_C"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 154.94 149.86 0)
 			(effects
 				(font
@@ -14234,7 +14234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "RampGenModels:CAPC1206(3216)100_N"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm"
 			(at 162.56 154.94 0)
 			(effects
 				(font
