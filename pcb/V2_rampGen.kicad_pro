@@ -488,7 +488,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
-      "svg": "",
+      "svg": "back_pcb/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -595,10 +595,6 @@
     [
       "3a9173ff-8d87-4519-bbf1-e85ecfdc1942",
       "Root"
-    ],
-    [
-      "34062ee4-f108-4f49-8f13-d488366f0d6d",
-      "Untitled Sheet"
     ]
   ],
   "text_variables": {
