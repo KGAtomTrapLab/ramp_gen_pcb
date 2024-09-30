@@ -484,10 +484,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "EXPORT/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "V2_rampGen.step",
       "svg": "back_pcb/",
       "vrml": ""
     },
