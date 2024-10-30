@@ -1,3 +1,6 @@
 # ramp_gen_pcb
-Altium files for the ramp generator PCB.
-Also contains manufacturing information
+-PCB Files used for creating our custom voltage ramp electronics.
+
+-Originally devloped ini Altium, migrated to KiCad 
+
+-Additionaliy contains various documentation for componenents
